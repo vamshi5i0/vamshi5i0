@@ -1,4 +1,4 @@
-# Hi there, I'm [vamshi krishna] 👋
+# Hi there, I'm vamshi krishna 👋
 
 Welcome to my GitHub profile! I'm a passionate web developer with a focus on front-end and back-end technologies. I'm constantly learning and improving my skills to build responsive, user-friendly web applications.
 
